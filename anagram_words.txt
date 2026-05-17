@@ -1,0 +1,20 @@
+LISTEN|To pay attention with your ears
+SILENT|Making no sound
+TRIANGLE|A 3-sided polygon
+INTEGRAL|A calculus concept
+CINEMA|A place to watch movies
+ICEMAN|A character made of ice
+DUSTY|Covered in fine particles
+STUDY|To learn from books
+EARTH|Our home planet
+HEART|Pumps blood in your body
+STARE|To look fixedly at something
+TEARS|Drops produced from crying
+MASTER|An expert or owner
+STREAM|A small flowing body of water
+BINARY|Base-2 number system used in computers
+OBJECT|An instance of a class in OOP
+LOOPS|Repeated code execution structures
+PRINT|To output text to the screen
+STACK|Data structure: last in, first out
+QUEUE|Data structure: first in, first out
