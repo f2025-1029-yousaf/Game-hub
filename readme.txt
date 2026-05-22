@@ -35,14 +35,8 @@ GAME DESCRIPTIONS
    - ASCII art draws the hangman as guesses go wrong
    - Score = number of words solved
 
-2. MATH CHALLENGE
-   - Choose difficulty: Easy (1-10), Medium (1-50), Hard (1-100)
-   - Random arithmetic questions: +, -, *, /
-   - Division always produces whole-number answers
-   - Streak bonus: 3 correct in a row = +3 points instead of +1
-   - Score accumulates across questions
 
-3. ANAGRAM
+2. ANAGRAM
    - A word from anagram_words.txt is scrambled randomly
    - Player types the unscrambled word
    - Type 'hint' to reveal a clue (-1 point penalty)
